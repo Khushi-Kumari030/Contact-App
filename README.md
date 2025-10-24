@@ -52,7 +52,7 @@ A modern, interactive **Contacts management app** built with **React** and **Vit
 ---
 
 ## Project Structure
-my-project/
+```my-project/
 ├─ public/
 ├─ src/
 │  ├─ api/
@@ -74,3 +74,4 @@ my-project/
 ├─ package.json
 └─ README.md
 
+```
