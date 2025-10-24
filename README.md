@@ -1,6 +1,6 @@
 # Contacts App
 
-A modern, interactive **Contacts management app** built with **React** and **Vite**, featuring a responsive interface, light/dark theme support, and realistic Indian contact data.
+A modern, interactive **Contacts management app** built with **React** and **Vite**, featuring a responsive interface, light/dark theme support, and contact data.
 
 ---
 
@@ -55,22 +55,22 @@ A modern, interactive **Contacts management app** built with **React** and **Vit
 my-project/
 ├─ public/
 ├─ src/
-│ ├─ api/
-│ │ └─ mockApi.js
-│ ├─ components/
-│ │ ├─ AddContactModal.jsx
-│ │ ├─ ContactCard.jsx
-│ │ ├─ ContactList.jsx
-│ │ ├─ DeleteConfirmModal.jsx
-│ │ ├─ InfoModal.jsx
-│ │ ├─ MessagePanel.jsx
-│ │ ├─ SearchBar.jsx
-│ │ └─ ThemeToggle.jsx
-│ ├─ styles/
-│ │ └─ theme.css
-│ ├─ App.jsx
-│ ├─ main.jsx
-│ └─ index.css
+│  ├─ api/
+│  │  └─ mockApi.js
+│  ├─ components/
+│  │  ├─ AddContactModal.jsx
+│  │  ├─ ContactCard.jsx
+│  │  ├─ ContactList.jsx
+│  │  ├─ DeleteConfirmModal.jsx
+│  │  ├─ InfoModal.jsx
+│  │  ├─ MessagePanel.jsx
+│  │  ├─ SearchBar.jsx
+│  │  └─ ThemeToggle.jsx
+│  ├─ styles/
+│  │  └─ theme.css
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ index.css
 ├─ package.json
 └─ README.md
 
