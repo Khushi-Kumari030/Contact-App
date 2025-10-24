@@ -76,7 +76,7 @@ A modern, interactive **Contacts management app** built with **React** and **Vit
 
 ```
 ---
-- **link to my deployed project:** https://contact-app-nine-navy.vercel.app/
+- **link to my deployed project:** https://contactapp-olive.vercel.app/
 
 
 
